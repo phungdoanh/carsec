@@ -6,3 +6,5 @@ matplotlib
 xlsxwriter
 Openpyxl 
 pip
+pillow
+streamlit-aggrid
